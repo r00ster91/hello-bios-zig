@@ -9,6 +9,7 @@ It didn't go great. Will probably have to wait for <https://github.com/ziglang/z
 make build run clean
 ```
 to run rules `build`, `run`, and `clean`.
+
 By default, it uses `hello.zig`.
 To run `big_hello.zig`, use `sed -i 's/hello/big_hello/g' Makefile`.
 
